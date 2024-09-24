@@ -10,6 +10,9 @@ Extensive Training: The model has been trained on a diverse dataset of geotagged
 
 Applications: Useful in location-based services, geolocation games (e.g., GeoGuessr), mapping applications, and research that requires spatial analysis of image data.
 
+# Video Presentation and Demo
+[https://www.youtube.com/watch?v=hvCGrNylYic ](https://www.youtube.com/watch?v=hvCGrNylYic)
+
 # Collaborators
 Ashwin Santhosh
 

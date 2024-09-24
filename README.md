@@ -6,7 +6,7 @@ GeoNet is a deep learning model designed for geolocating images based on visual 
 2. Accurate Image Geolocation: Predicts geographic coordinates (latitude and longitude) based on visual information within the input image.
 3. Extensive Training: The model has been trained on a diverse dataset of geotagged images, enhancing its ability to generalize across different landscapes, environments, and urban structures.
 4. Applications: Useful in location-based services, geolocation games (e.g., GeoGuessr), mapping applications, and research that requires spatial analysis of image data.
-5. 
+
 # Collaborators
 Ashwin Santhosh
 Alex Guo

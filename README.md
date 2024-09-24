@@ -12,8 +12,11 @@ Applications: Useful in location-based services, geolocation games (e.g., GeoGue
 
 # Collaborators
 Ashwin Santhosh
+
 Alex Guo
+
 Daniel Rolfe
+
 Nolan Young
 
 # License & Copyright

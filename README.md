@@ -6,7 +6,7 @@ Hybrid Architecture: Utilizes both Vision Transformers (ViT) and Convolutional N
 
 Accurate Image Geolocation: Predicts geographic coordinates (latitude and longitude) based on visual information within the input image.
 
-Extensive Training: The model has been trained on a diverse dataset of geotagged images, enhancing its ability to generalize across different landscapes, environments, and urban structures.
+Extensive Training: The model has been trained on a diverse dataset of geotagged images sourced from the Google Street View API, enhancing its ability to generalize across different landscapes, environments, and urban structures.
 
 Applications: Useful in location-based services, geolocation games (e.g., GeoGuessr), mapping applications, and research that requires spatial analysis of image data.
 
